@@ -6,5 +6,3 @@ num2=20
 sum=$((num1=num2))
 
 echo "$num1 + $num2 = $sum"
-
-echo "lorem21"
